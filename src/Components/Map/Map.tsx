@@ -63,7 +63,7 @@ export const Map = () => {
           disableFocusListener
           disableTouchListener
           open={true}
-          followCursor={clicked ? false : true}
+          followCursor={true}
           title={info && <div dangerouslySetInnerHTML={{ __html: info }} />}
         >
           <g id="g5">
