@@ -12,8 +12,6 @@ export const Map = () => {
 
   const [stateName, setStateName] = useState<string>("");
 
-  const [clicked, setClicked] = useState<boolean>(false);
-
   const checkId = (idToCheck: string) => {
     const foundState = states.find(
       (state) => state.attributes.abbreviation === idToCheck
@@ -32,7 +30,7 @@ export const Map = () => {
 
     const dataId = event.currentTarget.getAttribute("id") as string;
 
-    if (dataInfo && dataId && !clicked) {
+    if (dataInfo && dataId) {
       setInfo(dataInfo);
       setFoundItem(checkId(dataId));
     }
