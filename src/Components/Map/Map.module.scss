@@ -1,0 +1,25 @@
+@mixin svgPath {
+  stroke: #002868 !important;
+  stroke-width: 2px;
+  stroke-linejoin: round;
+  fill: #002868 !important;
+  cursor: pointer;
+  position: relative;
+}
+
+.usMap {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+
+  > svg > g > path:hover {
+    @include svgPath;
+  }
+
+  > svg > g > g > circle:hover {
+    @include svgPath;
+  }
+}

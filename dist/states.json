@@ -1,0 +1,454 @@
+{
+  "data": [
+    {
+      "type": "states",
+      "id": "20cbd6e4-bffb-11eb-9cf9-0242ac110002",
+      "attributes": {
+        "name": "Alabama",
+        "abbreviation": "AL",
+        "zipCodes": "35004 - 36925"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20cf4e50-bffb-11eb-876f-0242ac110002",
+      "attributes": {
+        "name": "Alaska",
+        "abbreviation": "AK",
+        "zipCodes": "99501 - 99950"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20cfd6e0-bffb-11eb-b1f3-0242ac110002",
+      "attributes": {
+        "name": "Arizona",
+        "abbreviation": "AZ",
+        "zipCodes": "85001 - 86556"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d059f8-bffb-11eb-a752-0242ac110002",
+      "attributes": {
+        "name": "Arkansas",
+        "abbreviation": "AR",
+        "zipCodes": "71601 - 72959"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d0d158-bffb-11eb-b127-0242ac110002",
+      "attributes": {
+        "name": "California",
+        "abbreviation": "CA",
+        "zipCodes": "90001 - 96162"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d12d60-bffb-11eb-9058-0242ac110002",
+      "attributes": {
+        "name": "Colorado",
+        "abbreviation": "CO",
+        "zipCodes": "80001 - 81658"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d1926e-bffb-11eb-9cbe-0242ac110002",
+      "attributes": {
+        "name": "Connecticut",
+        "abbreviation": "CT",
+        "zipCodes": "06001 - 06928"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d1f826-bffb-11eb-a4b3-0242ac110002",
+      "attributes": {
+        "name": "Delaware",
+        "abbreviation": "DE",
+        "zipCodes": "19701 - 19980"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d25406-bffb-11eb-91b1-0242ac110002",
+      "attributes": {
+        "name": "Florida",
+        "abbreviation": "FL",
+        "zipCodes": "32003 - 34997"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d2cc6a-bffb-11eb-a50a-0242ac110002",
+      "attributes": {
+        "name": "Georgia",
+        "abbreviation": "GA",
+        "zipCodes": "30002 - 39901"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d33696-bffb-11eb-bb2e-0242ac110002",
+      "attributes": {
+        "name": "Hawaii",
+        "abbreviation": "HI",
+        "zipCodes": "96701 - 96898"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d3afb8-bffb-11eb-a6f0-0242ac110002",
+      "attributes": {
+        "name": "Idaho",
+        "abbreviation": "ID",
+        "zipCodes": "83201 - 83877"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d420ce-bffb-11eb-90de-0242ac110002",
+      "attributes": {
+        "name": "Illinois",
+        "abbreviation": "IL",
+        "zipCodes": "60001 - 62999"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d49da6-bffb-11eb-a7a1-0242ac110002",
+      "attributes": {
+        "name": "Indiana",
+        "abbreviation": "IN",
+        "zipCodes": "46001 - 47997"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d50872-bffb-11eb-8b2f-0242ac110002",
+      "attributes": {
+        "name": "Iowa",
+        "abbreviation": "IA",
+        "zipCodes": "50001 - 52809"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d566dc-bffb-11eb-a460-0242ac110002",
+      "attributes": {
+        "name": "Kansas",
+        "abbreviation": "KS",
+        "zipCodes": "66002 - 67954"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d5c85c-bffb-11eb-af40-0242ac110002",
+      "attributes": {
+        "name": "Kentucky",
+        "abbreviation": "KY",
+        "zipCodes": "40003 - 42788"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d62464-bffb-11eb-a0c2-0242ac110002",
+      "attributes": {
+        "name": "Louisiana",
+        "abbreviation": "LA",
+        "zipCodes": "70001 - 71497"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d76c34-bffb-11eb-a9d4-0242ac110002",
+      "attributes": {
+        "name": "Maine",
+        "abbreviation": "ME",
+        "zipCodes": "03901 - 04992"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d7bf40-bffb-11eb-8215-0242ac110002",
+      "attributes": {
+        "name": "Maryland",
+        "abbreviation": "MD",
+        "zipCodes": "20588 - 21930"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d81472-bffb-11eb-9490-0242ac110002",
+      "attributes": {
+        "name": "Massachusetts",
+        "abbreviation": "MA",
+        "zipCodes": "01001 - 05544"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d85cfc-bffb-11eb-823c-0242ac110002",
+      "attributes": {
+        "name": "Michigan",
+        "abbreviation": "MI",
+        "zipCodes": "48001 - 49971"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d8a978-bffb-11eb-8a84-0242ac110002",
+      "attributes": {
+        "name": "Minnesota",
+        "abbreviation": "MN",
+        "zipCodes": "55001 - 56763"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d8f8ce-bffb-11eb-9c66-0242ac110002",
+      "attributes": {
+        "name": "Mississippi",
+        "abbreviation": "MS",
+        "zipCodes": "38601 - 39776"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d94216-bffb-11eb-ac46-0242ac110002",
+      "attributes": {
+        "name": "Missouri",
+        "abbreviation": "MO",
+        "zipCodes": "63001 - 65899"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d9969e-bffb-11eb-b2c8-0242ac110002",
+      "attributes": {
+        "name": "Montana",
+        "abbreviation": "MT",
+        "zipCodes": "59001 - 59937"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20d9e702-bffb-11eb-a017-0242ac110002",
+      "attributes": {
+        "name": "Nebraska",
+        "abbreviation": "NE",
+        "zipCodes": "68001 - 69367"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20da4080-bffb-11eb-aa6a-0242ac110002",
+      "attributes": {
+        "name": "Nevada",
+        "abbreviation": "NV",
+        "zipCodes": "88901 - 89883"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20daa32c-bffb-11eb-a050-0242ac110002",
+      "attributes": {
+        "name": "New Hampshire",
+        "abbreviation": "NH",
+        "zipCodes": "03031 - 03897"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20db06aa-bffb-11eb-9b4a-0242ac110002",
+      "attributes": {
+        "name": "New Jersey",
+        "abbreviation": "NJ",
+        "zipCodes": "07001 - 08989"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20db68fc-bffb-11eb-9036-0242ac110002",
+      "attributes": {
+        "name": "New Mexico",
+        "abbreviation": "NM",
+        "zipCodes": "87001 - 88439"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20dbdd5a-bffb-11eb-8862-0242ac110002",
+      "attributes": {
+        "name": "New York",
+        "abbreviation": "NY",
+        "zipCodes": "00501 - 14925"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20dc6284-bffb-11eb-9e05-0242ac110002",
+      "attributes": {
+        "name": "North Carolina",
+        "abbreviation": "NC",
+        "zipCodes": "27006 - 28909"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20dcd368-bffb-11eb-9735-0242ac110002",
+      "attributes": {
+        "name": "North Dakota",
+        "abbreviation": "ND",
+        "zipCodes": "58001 - 58856"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20dd38ee-bffb-11eb-895d-0242ac110002",
+      "attributes": {
+        "name": "Ohio",
+        "abbreviation": "OH",
+        "zipCodes": "43001 - 45999"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20ddc516-bffb-11eb-8ac7-0242ac110002",
+      "attributes": {
+        "name": "Oklahoma",
+        "abbreviation": "OK",
+        "zipCodes": "73001 - 74966"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20de23c6-bffb-11eb-ac45-0242ac110002",
+      "attributes": {
+        "name": "Oregon",
+        "abbreviation": "OR",
+        "zipCodes": "97001 - 97920"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20de6d40-bffb-11eb-ac83-0242ac110002",
+      "attributes": {
+        "name": "Pennsylvania",
+        "abbreviation": "PA",
+        "zipCodes": "15001 - 19640"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20deb0c0-bffb-11eb-ab32-0242ac110002",
+      "attributes": {
+        "name": "Rhode Island",
+        "abbreviation": "RI",
+        "zipCodes": "02801 - 02940"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20def94a-bffb-11eb-a6db-0242ac110002",
+      "attributes": {
+        "name": "South Carolina",
+        "abbreviation": "SC",
+        "zipCodes": "29001 - 29945"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20df3b3a-bffb-11eb-ac84-0242ac110002",
+      "attributes": {
+        "name": "South Dakota",
+        "abbreviation": "SD",
+        "zipCodes": "57001 - 57799"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20df8540-bffb-11eb-8414-0242ac110002",
+      "attributes": {
+        "name": "Tennessee",
+        "abbreviation": "TN",
+        "zipCodes": "37010 - 38589"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20dfcd7a-bffb-11eb-8964-0242ac110002",
+      "attributes": {
+        "name": "Texas",
+        "abbreviation": "TX",
+        "zipCodes": "73301 - 88595"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20e0188e-bffb-11eb-a915-0242ac110002",
+      "attributes": {
+        "name": "Utah",
+        "abbreviation": "UT",
+        "zipCodes": "84001 - 84791"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20e06550-bffb-11eb-9b67-0242ac110002",
+      "attributes": {
+        "name": "Vermont",
+        "abbreviation": "VT",
+        "zipCodes": "05001 - 05907"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20e0a07e-bffb-11eb-bf49-0242ac110002",
+      "attributes": {
+        "name": "Virginia",
+        "abbreviation": "VA",
+        "zipCodes": "20101 - 24658"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20e0dc38-bffb-11eb-8994-0242ac110002",
+      "attributes": {
+        "name": "Washing-n",
+        "abbreviation": "WA",
+        "zipCodes": "98001 - 99403"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20e11c52-bffb-11eb-b654-0242ac110002",
+      "attributes": {
+        "name": "West Virgina",
+        "abbreviation": "WV",
+        "zipCodes": "24701 - 26886"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20e1614e-bffb-11eb-ae94-0242ac110002",
+      "attributes": {
+        "name": "Wisconsin",
+        "abbreviation": "WI",
+        "zipCodes": "53001 - 54990"
+      }
+    },
+    {
+      "type": "states",
+      "id": "20e1be96-bffb-11eb-8a87-0242ac110002",
+      "attributes": {
+        "name": "Wyoming",
+        "abbreviation": "WY",
+        "zipCodes": "82001 - 83414"
+      }
+    }
+  ]
+}
